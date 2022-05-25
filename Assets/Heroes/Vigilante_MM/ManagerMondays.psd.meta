@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: d9dff4ac0b1959c4697d45c2f0ede80b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ManagerMondays_Standing_
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Cup_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Cup_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Fist_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Fist_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Fist_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Idle_Fist_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: .278932571, y: 0}
+    - name: ManagerMondays_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 128
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: .283445358, y: 0}
+    - name: ManagerMondays_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: ManagerMondays_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 

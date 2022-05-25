@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: ade4b287b5e7a35468397437bd3a2474
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Section_1_Skid_Top
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Skid_Bottom
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Skid_Stack
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Skid_Full
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Container_Left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Container_Right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Container_Full
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Lift_Double_Left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Lift_Double_Right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Lift_Double_Full
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Lift_Single
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_HangingPlat_End
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_HangingPlat_Section
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Hook
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 100
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Rope_Thin
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 123
+        width: 40
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Rope_Thick
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 125
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Lamp_Light
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 98
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: .5, y: .970000029}
+    - name: Section_1_Chain_Wide
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 115
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: .5, y: .920000017}
+    - name: Section_1_Chain_Thin
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 100
+        width: 4
+        height: 13
+      alignment: 9
+      pivot: {x: .5, y: .879999995}
+    - name: Section_1_Tire_Front
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Crate
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Tire_Side
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 96
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Tire_Stack
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Propane_Blue
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Propane_Red
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Chemical_Blue
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 128
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Chemical_Red
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 128
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 145
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 145
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 128
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 105
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Smoke_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Booth_Front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Booth_Inside
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_WorkLight
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 194
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_StopBlock
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Arch_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Booth_Top
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 229
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Booth_Thing
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 215
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Room_Corner
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Ceiling_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Ceiling_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Wall_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Wall_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Wall_2_Small
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Wall_1_Small
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Ceiling_1_Small
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Ceiling_2_Small
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Light_Long
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Elevator_Plat
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Switch_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Section_1_Switch_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_GarageDoor_Unit
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_GarageDoor_Stop
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_GarageDoor_
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 11
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Girder_Front
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Girder_Side
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Pipe_Straight
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Pipe_Curve
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Pipe_Valve
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Container_Small
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Light_PullString
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 71
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Section_1_Light_Small
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

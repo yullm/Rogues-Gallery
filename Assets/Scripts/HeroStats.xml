@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Hero>
+	<Stats>
+		<Name></Name>
+		<HP></HP>
+		<MP></MP>
+		<STR></STR>
+		<DEX></DEX>
+		<INT></INT>
+		<ATKDMG></ATKDMG>
+		<ATKRATE></ATKRATE>
+		<CRITDMG></CRITDMG>
+		<CRIT_P></CRIT_P>
+		
+		<CLASS></CLASS>
+		<RACE></RACE>
+		<VARIANT></VARIANT>
+		<SPECIAL></SPECIAL>
+		<TRAIT1></TRAIT1>
+		<TRAIT2></TRAIT2>
+		<TRAIT3></TRAIT3>
+	</Stats>
+</Hero>
